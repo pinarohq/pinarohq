@@ -1,105 +1,139 @@
+<div align="center">
+
 # Sumit Rajput
 
-**Founder & Full-Stack Software Engineer at Pinaro**
+### Founder & Full-Stack Software Engineer @ **Pinaro**
 
-Building modern, scalable, and high-performance digital products with a focus on exceptional user experience, clean architecture, and business-driven solutions.
+Building premium websites, scalable web applications, and modern digital experiences.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)]([YOUR_PORTFOLIO_URL](https://pinarohq.github.io/IronForge-Fitness/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:socialmain2025@gmail.com)
+
+</div>
 
 ---
 
 ## About
 
-Pinaro is a web development studio specializing in premium websites, web applications, and custom digital solutions. Every project is engineered with performance, scalability, accessibility, and maintainability as core principles.
+Pinaro is a web development studio focused on creating high-performance websites and web applications that combine exceptional design with scalable engineering.
 
-Core areas of expertise include:
+I specialize in developing solutions that prioritize:
 
-* Full-Stack Web Development
-* Business & Corporate Websites
-* WordPress Development
-* React & Next.js Applications
-* UI/UX-Focused Front-End Engineering
-* API Development & Integration
-* Performance Optimization
-* SEO & Core Web Vitals
-* AI-Assisted Development Workflows
+* Modern UI/UX
+* Performance & Core Web Vitals
+* Clean Architecture
+* Responsive Design
+* SEO
+* Accessibility
+* Scalable Development
 
 ---
 
-## Technology Stack
+# Tech Stack
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
-* React
-* Next.js
-* Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
 ### Backend
 
-* Node.js
-* Express.js
-* REST APIs
-* PHP
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
 ### CMS
 
-* WordPress
-* Elementor
-* WooCommerce
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
 
-### Databases
+### Database
 
-* MongoDB
-* MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### Development & Deployment
+### Tools
 
-* Git
-* GitHub
-* VS Code
-* Vercel
-* Cloudflare
-* Docker
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,cloudflare" />
+</p>
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Pinaro Website
+### 🚀 Pinaro Website
 
-The official website showcasing Pinaro's services, development standards, and design philosophy.
-
-### Business Website
-
-A modern business website engineered for performance, conversions, and responsive user experience.
-
-### Portfolio Website
-
-A personal portfolio demonstrating design systems, development practices, and production-ready implementations.
+Premium agency website focused on performance, clean design, and user experience.
 
 ---
 
-## Development Principles
+### 🏋️ Gym Website
 
-* Clean, maintainable code
-* Component-driven architecture
-* Performance-first development
-* Responsive by default
-* Accessibility-conscious implementation
-* SEO-friendly structure
-* Scalable project architecture
-* Attention to detail
+A modern fitness website built with conversion-focused design and responsive development.
 
 ---
 
-## Connect
+### 💼 Portfolio Website
 
-* Portfolio Website
-* LinkedIn
-* Email
+Professional portfolio showcasing web development projects and design standards.
 
 ---
 
-> Building digital experiences that combine thoughtful design with robust engineering.
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
+
+</p>
+
+---
+
+# Development Principles
+
+* Clean & Maintainable Code
+* Performance-First Development
+* Responsive by Default
+* Scalable Architecture
+* Accessibility Focused
+* SEO Friendly
+* Business-Oriented Solutions
+
+---
+
+# Current Focus
+
+* Premium Business Websites
+* Full-Stack Web Applications
+* Modern React & Next.js Development
+* AI-Assisted Software Engineering
+* High-Performance Web Experiences
+
+---
+
+<div align="center">
+
+### Let's Build Something Great.
+
+</div>
