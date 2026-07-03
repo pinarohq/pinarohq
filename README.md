@@ -8,7 +8,7 @@ Building premium websites, scalable web applications, and modern digital experie
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)]([https://pinarohq.github.io/IronForge-Fitness/])
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://pinarohq.github.io/IronForge-Fitness/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:socialmain2025@gmail.com)
 
